@@ -1,12 +1,6 @@
-# AI_cla
+# AI_classes
+Akademia Informatyczna
 
-*POPSUŁEM README*
-sses
-Aka
+*Cisza, spokój, harmonia*
 
-### HAHAHAHA
-
-## HAHSHS
-**GRUBO**
-demia Infor
-matyczna
+**Nie zmieniłem za bardzo pliku README.md**
